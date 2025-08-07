@@ -7,6 +7,3 @@ def make_readable(seconds):
     s = seconds % MIN
     
     return f"{h:02}:{m:02}:{s:02}"
-
-
-print(make_readable(86400))

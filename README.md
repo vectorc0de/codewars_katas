@@ -1,10 +1,10 @@
-# My Codewars Python Solutions 🐍💡
+# My Codewars Python Solutions
 
 Welcome to my collection of Python solutions for various Codewars katas! This repository serves as a personal log of my journey to improve problem-solving skills, explore different algorithms, and practice writing clean, efficient Python code.
 
 
 
-## 🚀 About This Repository
+## About This Repository
 
 This repository is dedicated to storing and showcasing my solutions to programming challenges found on [Codewars](https://www.codewars.com/). Each kata (programming challenge) is organized into its own directory, typically containing:
 
@@ -15,7 +15,7 @@ The goal is to continuously learn, refactor, and apply best practices in softwar
 
 
 
-## 📂 Kata Structure
+## Kata Structure
 
 Here's a glimpse of how the solutions are organized within the `katas/` directory:
 
@@ -50,7 +50,7 @@ Here's a glimpse of how the solutions are organized within the `katas/` director
 
 
 
-## ✅ How to Run Tests Locally
+## How to Run Tests Locally
 
 To run the tests for a specific kata, navigate into its directory and execute the `tests.py` file using Python.
 
@@ -65,14 +65,13 @@ This will run the test suite for that particular kata, helping you verify the co
 
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
   * **Python 3**: The primary programming language for all solutions.
   * **`CODEWARS unit test`**: Python's built-in testing framework used for verifying solutions.
 
 
-
-## 📈 My Codewars Profile
+## My Codewars Profile
 
 Feel free to check out my Codewars profile to see more of my progress and completed katas:
 
@@ -80,13 +79,6 @@ Feel free to check out my Codewars profile to see more of my progress and comple
 
 
 
-## 🙏 Contributions & Feedback
+## Contributions & Feedback
 
 While this is primarily a personal repository, feedback and suggestions are always welcome! If you find an alternative approach or a more efficient solution, feel free to open an issue or start a discussion.
-
-
-
-## 📜 License
-
-This project is open-sourced under the [MIT License](https://opensource.org/licenses/MIT).
-
