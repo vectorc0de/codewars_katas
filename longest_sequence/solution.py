@@ -1,23 +1,19 @@
 def longest_sequence(n):
     longest = []
-    # sqrt
-    for i in range(1, int(n ** 0.5) + 1):
+    for i in range(1, int(n**0.5) + 1):
         total = 0
-        current_sequence = []
+        current_sequence = []        
         j = i
 
-        while total + j ** 2 <= n:
-            total += j ** 2
+        while total + j**2 <= n:
+            total += j**2
             current_sequence.append(j)
-
+            
             if total == n:
-                # only the longest
                 if len(current_sequence) > len(longest):
                     longest = current_sequence
                 break
-
+            
             j += 1
-
-    return longest if longest else []
-
-longest_sequence(34)
+            
+    return longest if longest else None
